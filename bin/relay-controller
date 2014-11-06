@@ -1,0 +1,8 @@
+#!/usr/bin/env node
+
+var gpio = process.argv.slice(2);
+
+var relay = require("../relay-controller").relay;
+relay.toggle(gpio,function(status){
+	console.log(status);
+})

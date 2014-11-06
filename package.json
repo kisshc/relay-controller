@@ -1,0 +1,51 @@
+{
+  "name": "relay-controller",
+  "version": "0.0.3",
+  "description": "This's relay controller for Raspberry pi",
+  "main": "relay-controller.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kisshc/relay-controller.git"
+  },
+  "keywords": [
+    "relay-controller",
+    "relay",
+    "raspberry",
+    "pi"
+  ],
+  "author": {
+    "name": "kisshc"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kisshc/relay-controller/issues"
+  },
+  "homepage": "https://github.com/kisshc/relay-controller",
+  "gitHead": "c7110bb0a17999c71d4a1a03a09803bfecf5c143",
+  "_id": "relay-controller@0.0.3",
+  "_shasum": "8bdce05f349b82baeddac2c7409bda20b71dc660",
+  "_from": "relay-controller@",
+  "_npmVersion": "2.1.5",
+  "_npmUser": {
+    "name": "kisshc",
+    "email": "kisshc@kisshc.com"
+  },
+  "maintainers": [
+    {
+      "name": "kisshc",
+      "email": "kisshc@kisshc.com"
+    }
+  ],
+  "dist": {
+    "shasum": "8bdce05f349b82baeddac2c7409bda20b71dc660",
+    "tarball": "http://registry.npmjs.org/relay-controller/-/relay-controller-0.0.3.tgz"
+  },
+  "_resolved": "https://registry.npmjs.org/relay-controller/-/relay-controller-0.0.3.tgz",
+  "_nodeVersion": "0.10.32"
+}
