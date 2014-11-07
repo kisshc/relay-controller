@@ -56,6 +56,8 @@ relay.closeAt(pin,1000,function(){
 })
 ``` 
 
+Or
+
 ```
 relay.close(pin,1000,function(){
 	console.log("close...");
