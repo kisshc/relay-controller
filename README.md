@@ -16,9 +16,9 @@ First:
 USE:
 =================
 1. <code>relay.open(pin,[times],[callback])</code>
-	+. open relay 
-	+. times Time delay opening
-	+. callback will return status
+	+ open relay 
+	+ times Time delay opening
+	+ callback will return status
 
 ```
 var relay = require("relay-controller").relay;
