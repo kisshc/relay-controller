@@ -64,7 +64,3 @@ relay.close(pin,1000,function(){
 })
 ```
 
-Website
-=================
-http://www.kisshc.com
-
